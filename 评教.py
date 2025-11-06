@@ -7,7 +7,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 from selenium.webdriver.edge.service import Service
 
-service = Service(executable_path=r"D:\CODE\Python_demo\msedgedriver.exe")  # 你的实际路径
+service = Service(executable_path=r"D:\CODE\pingjiao\msedgedriver.exe")  # 你的实际路径W
 
 
 
